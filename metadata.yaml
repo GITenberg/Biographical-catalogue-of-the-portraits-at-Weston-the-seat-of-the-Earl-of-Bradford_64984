@@ -1,5 +1,8 @@
 _repo: Biographical-catalogue-of-the-portraits-at-Weston-the-seat-of-the-Earl-of-Bradford_64984
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64984-h/images/back-cover.jpg
 creator:
   author:
     agent_name: Boyle, Mary Louisa
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52325'
     url: http://www.gutenberg.org/2009/agents/52325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64984#Biographical-catalogue-of-the-portraits-at-Weston-the-seat-of-the-Earl-of-Bradford
 gutenberg_issued: '2021-04-03'
 gutenberg_type: Text
 identifiers:
